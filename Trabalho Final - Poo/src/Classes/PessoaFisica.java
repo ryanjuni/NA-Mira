@@ -1,12 +1,28 @@
 package Classes;
 
-public class PessoaFisica extends Pessoa {
-    private String nome;
-    private String cpf;
-    private String telefone;
-    private String email;
-    private String endereco;
-    private String id;
+public class PessoaFisica extends Pessoa{
+    private int cpf;
 
-    public PessoaFisica() {}
+
+    public int getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(int cpf) {
+        this.cpf = cpf;
+    }
+
+
+    public PessoaFisica() {
+        super();
+    }
+
+
+    @Override
+    public void Imprimir() {
+        super.Imprimir();
+        System.out.println("CPF: " + getCpf());
+
+
+    }
 }
