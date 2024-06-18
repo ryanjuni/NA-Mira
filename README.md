@@ -11,6 +11,13 @@
 # Vídeo Demonstrativo
 
 # Como Rodar
+Passo 1 : Clone  o Repositório do Projeto. 
+
+Passo 2 : abra à Ide da sua Preferência.
+
+Passo 3:  Cole Código no Intellij ou na sua Ide de Preferência. 
+
+Passo 4: Clique no botão Run no Canto Superior Direito da Ide.
 
 # Equipe 
 Ryan Junio
