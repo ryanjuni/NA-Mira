@@ -10,3 +10,8 @@
 # Vídeo Demonstrativo
 
 # Como Rodar
+
+# Equipe 
+Ryan Junio
+
+Fernanda Rocha
