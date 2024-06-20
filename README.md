@@ -16,7 +16,7 @@
 7. divirta-se fazendo compras!
 
 # Funcionalidade 
-O Projeto possui varias Classes  entre elas Estão as classes 
+O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoque`, `Produto`, `PessoaFissica`, `PessoaJuridica`, `Pessoa`, `Pedido` e `Pagamento`.
 
 
 
