@@ -18,6 +18,10 @@
 # Funcionalidade 
 O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoque`, `Produto`, `PessoaFissica`, `PessoaJuridica`, `Pessoa`, `Pedido` e `Pagamento`.
 
+- O sistema é composto por várias classes Java que se comunicam para fornecer funcionalidades específicas.
+
+- O código faz uso  de interface gráfica do usuário.
+- O código faz uso de um Banco de dados (SQlite).
 
 
 # Imagens  Demonstrativas
