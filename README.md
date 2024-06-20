@@ -30,7 +30,10 @@ O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoq
  1. SQLite
  2. Java 
 
-# Equipe 
+# Equipe
+![Fernanda](https://github.com/ryanjuni/Trabalho/assets/102491606/9613109f-b2d6-44ef-85a5-b49318766ab6)
+ 
+
 Fernanda Rocha 
 https://github.com/fernandarrocha
 
