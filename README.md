@@ -4,7 +4,7 @@
 
 
 # Descrição
-  O Objetivo do projeto é simular um Sistema de uma Loja de vendas de armas  em Java, com interface gráfica. O sistema permite que a Pessoa  Escolha de um  produto, adicionem ao carrinho, , realizem o pagamento e efetuem a Compra.
+  O Objetivo do projeto é simular um Sistema de uma Loja de vendas de armas  em Java, com interface gráfica. O sistema permite que a Pessoa  Escolha de um  produto, adicionem ao carrinho,  realizem o pagamento e efetuem a Compra.
 
 
 # Como Rodar
