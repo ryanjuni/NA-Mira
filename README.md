@@ -31,7 +31,8 @@ O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoq
  2. Java 
 
 # Equipe 
-Fernanda Rocha
+Fernanda Rocha 
+https://github.com/fernandarrocha
 
 
 
