@@ -15,7 +15,7 @@
 6. Crie um Cadastro e Faça login, Escolha um produto e realize o pagamento.
 7. divirta-se fazendo compras!
 
-# Funcionalidade 
+# Funcionamento
 O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoque`, `Produto`, `PessoaFissica`, `PessoaJuridica`, `Pessoa`, `Pedido` e `Pagamento`.
 
 - O sistema é composto por várias classes Java que se comunicam para fornecer funcionalidades específicas.
