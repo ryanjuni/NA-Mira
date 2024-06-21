@@ -37,5 +37,7 @@ O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoq
 Fernanda Rocha 
 https://github.com/fernandarrocha
 
+Ryan Junio
+https://github.com/ryanjuni
 
 
