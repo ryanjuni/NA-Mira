@@ -36,8 +36,11 @@ O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoq
 
 Fernanda Rocha 
 https://github.com/fernandarrocha
+----------------------------------------------------------------------------------------------------
+
+![ryan](https://github.com/ryanjuni/Trabalho/assets/102491606/860ad601-7fc0-4b61-97c9-1741f80ebc5a)
 
 Ryan Junio
 https://github.com/ryanjuni
-
+----------------------------------------------------------------------------------------------------
 
