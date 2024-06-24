@@ -24,7 +24,7 @@ O Projeto possui varias Classes  entre elas Estão as classes `Carrinho`, `Estoq
 - O código faz uso de um Banco de dados (SQlite).
 
 
-# Video  Demonstrativas
+# Video  Demonstrativos
 
 
 https://github.com/ryanjuni/Trabalho/assets/102491606/13718b0c-9e1c-4ef9-a9df-93733d78c02d
