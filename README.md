@@ -31,7 +31,7 @@ https://github.com/ryanjuni/Trabalho/assets/102491606/13718b0c-9e1c-4ef9-a9df-93
 
 
 # Dependências 
- 1. SQLite
+ 1. MySQL
  2. Java 
 
 # Equipe
