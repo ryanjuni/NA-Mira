@@ -34,17 +34,4 @@ https://github.com/ryanjuni/Trabalho/assets/102491606/13718b0c-9e1c-4ef9-a9df-93
  1. MySQL
  2. Java 
 
-# Equipe
-![Fernanda](https://github.com/ryanjuni/Trabalho/assets/102491606/9613109f-b2d6-44ef-85a5-b49318766ab6)
- 
-
-Fernanda Rocha 
-https://github.com/fernandarrocha
-----------------------------------------------------------------------------------------------------
-
-![ryan](https://github.com/ryanjuni/Trabalho/assets/102491606/860ad601-7fc0-4b61-97c9-1741f80ebc5a)
-
-Ryan Junio
-https://github.com/ryanjuni
-----------------------------------------------------------------------------------------------------
 
